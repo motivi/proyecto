@@ -2,10 +2,8 @@ package pkgGitHub;
 
 /**
  *
- * @author alumno: <escribe tu nombre aqui>
- * @author alumno: <escribe tu nombre aqui>
- * @author alumno: <escribe tu nombre aqui>
- * 
+ * @author alumno: cheng
+ * @author alumno: <escribe tu nombre aqui> 
  */
 public class GitAux {
     
@@ -20,7 +18,8 @@ public class GitAux {
     public void metodoAlumno3(){
         System.out.println("metodo 3");
     }
-    
+
+//perfecto tio chino    
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
     }
